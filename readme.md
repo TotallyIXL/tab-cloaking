@@ -2,7 +2,6 @@
 ```
 <script src="https://totally-ixl-cdn.neocities.org/AB-cloak.js"></script>
 
-<!-Code to cloak tab below -->
 <script>
 var title = "IXL | Math, Language Arts, Science, Social Studies, and Spanish"
 var url = "https://example.com"
