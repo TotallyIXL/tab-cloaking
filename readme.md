@@ -1,6 +1,6 @@
 
 ```
-<script src="https://totally-ixl-cdn.neocities.org/AB-cloak.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/TotallyIXL/tab-cloaking@main/cloak.js"></script>
 
 <script>
 var title = "IXL | Math, Language Arts, Science, Social Studies, and Spanish"
